@@ -172,10 +172,10 @@ Then track in Discord bot logs when users join from this link.
 ## 🤝 Support
 
 Questions? Contact:
-- GitHub: [Your GitHub]
-- Discord: [Your Server]
-- Email: [Your Email]
+- GitHub: [https://github.com/amit-v07]
+- Discord: [itsvirus07]
+
 
 ---
 
-Made with ❤️ by Amit Kumar | Music Bot 2026 Edition
+Made with ❤️ by Amit | Music Bot 2026 Edition
