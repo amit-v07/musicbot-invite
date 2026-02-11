@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://musicbot-invite.netlify.app/sitemap.xml
